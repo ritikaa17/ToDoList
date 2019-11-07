@@ -1,2 +1,3 @@
 # ToDoList
-To-do list that helps you add tasks or delete them from the schedule.
+
+A platform 'To-Do List' was created to easily manage your schedule and keep track of your ongoing tasks at hand.
